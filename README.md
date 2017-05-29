@@ -7,6 +7,6 @@ When doing SFTP into a docker container we ran into a stability issue
 
 # Run it
 1. Clone the repo
-2. `docker-compose -f docker-compose.yml`
+2. `docker-compose -f docker-compose.yml up`
 3. `cd client`
 4. `dotnet run`
